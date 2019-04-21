@@ -1,2 +1,2 @@
 # hello-world
-just for learning
+the first time to try
